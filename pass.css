@@ -1,0 +1,22 @@
+body {
+    
+}
+#password {
+    width: 90px;
+    font-weight: bold;
+}
+#copied{
+    display: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    padding: 50px;
+    background-color: #00CED1;
+    border-radius: 10px;
+    text-align: center;
+}
+button {
+    background-color: #4682B4;
+}
